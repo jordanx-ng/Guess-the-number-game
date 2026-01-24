@@ -15,11 +15,6 @@ A simple Python mini game where the computer randomly selects a number between 1
 - Conditionals
 - random module
 
-## How to Run
-```bash
-python guess_number.py
-
-
 ## What I Learned
 
 Using loops for repeated user input
@@ -27,3 +22,10 @@ Using loops for repeated user input
 Comparing values using conditionals
 
 Structuring a small Python program
+
+
+## How to Run
+```bash
+python guess_number.py
+
+
