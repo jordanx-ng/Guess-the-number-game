@@ -20,7 +20,7 @@ A simple Python mini game where the computer randomly selects a number between 1
 python guess_number.py
 
 
-What I Learned
+## What I Learned
 
 Using loops for repeated user input
 
