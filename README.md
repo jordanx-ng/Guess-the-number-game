@@ -1,31 +1,18 @@
-# Guess the Number Game 🎯
+# Guess the Number – Algorithmic Thinking in Python
 
-A simple Python mini game where the computer randomly selects a number between 1 and 100 and the user tries to guess it.
+This project is a simple Python-based interactive game designed to
+strengthen algorithmic thinking, control flow, and user interaction.
 
-## Features
-- Random number generation
-- User input validation
-- Feedback for high/low guesses
-- Counts number of attempts
-
-## Concepts Used
-- Variables
-- Functions
+## Skills Demonstrated
+- Conditional logic
 - Loops
-- Conditionals
-- random module
+- Random number generation
+- Input validation
 
-## What I Learned
+## Biomedical Relevance
+Algorithmic decision-making and control flow are foundational skills
+in computational biology, where logic-driven pipelines are used to
+process experimental data and guide downstream analysis.
 
-Using loops for repeated user input
-
-Comparing values using conditionals
-
-Structuring a small Python program
-
-
-## How to Run
-```bash
-python guess_number.py
-
-
+This project builds programming discipline applicable to more complex
+biomedical data workflows.
